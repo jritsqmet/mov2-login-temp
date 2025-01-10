@@ -55,12 +55,15 @@ export default function LoginScreen( {navigation} : any) {
                 placeholder='Ingresar contraseña'
                 style={styles.input}
                 onChangeText={(texto) => setcontrasenia(texto)}
+                secureTextEntry
             />
 
             <Button title='Login' onPress={()=> login()} />
                 <TouchableOpacity onPress={()=> navigation.navigate('Registro')}>
                     <Text style={styles.txt}>Crear una cuenta</Text>
                 </TouchableOpacity>
+            <Button title='Olvidaste la contraseña, da click aquí'
+            onPress={()=> navigation.navigate('Restablecer')}/>
         </View>
     )
 }
