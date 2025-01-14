@@ -1,0 +1,24 @@
+{
+    "_redirectEventId": undefined,
+    "apiKey": "AIzaSyDdlq71X9a3ZA65q4_sn9FZjyfJZakXDgA",
+    "appName": "[DEFAULT]",
+    "createdAt": "1736426528091",
+    "displayName": undefined,
+    "email": "juan@yop.com",
+    "emailVerified": false,
+    "isAnonymous": false,
+    "lastLoginAt": "1736511787985",
+    "phoneNumber": undefined,
+    "photoURL": undefined,
+    "providerData": [
+        [Object
+        ]
+    ],
+    "stsTokenManager": {
+        "accessToken": "eyJhbGciOiJSUzI1NiIsImtpZCI6IjQwZDg4ZGQ1NWQxYjAwZDg0ZWU4MWQwYjk2M2RlNGNkOGM0ZmFjM2UiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL3NlY3VyZXRva2VuLmdvb2dsZS5jb20vYXBwLWFuZ3VsYXItNjMzMWEiLCJhdWQiOiJhcHAtYW5ndWxhci02MzMxYSIsImF1dGhfdGltZSI6MTczNjUxMTc4NywidXNlcl9pZCI6ImpGZDZiZjlSSkFod2c0bFhxZk53M3JKZ0cxRzIiLCJzdWIiOiJqRmQ2YmY5UkpBaHdnNGxYcWZOdzNySmdHMUcyIiwiaWF0IjoxNzM2NTExNzg3LCJleHAiOjE3MzY1MTUzODcsImVtYWlsIjoianVhbkB5b3AuY29tIiwiZW1haWxfdmVyaWZpZWQiOmZhbHNlLCJmaXJlYmFzZSI6eyJpZGVudGl0aWVzIjp7ImVtYWlsIjpbImp1YW5AeW9wLmNvbSJdfSwic2lnbl9pbl9wcm92aWRlciI6InBhc3N3b3JkIn19.VDexqUc59EIkdbgD28whSjLS1kixEGAPFG7YBGqlao85thEXpBj7Vlj69CGqctVISTEe5EfG2HURuDrwrcimS0ZCi2XQS5M3fR45Emqb9T9FIm7X2ZbF8HOgyYFQfxZJ4o_PLGK209pUDZCQgpiJ9BOHauKHyN9LXIqVVIqE7Sltz7tKmukmr7gx6QpEIerH3CGx2WZyAFG1XI86JKrDyEnHgO6JNjvLpaDBmQwiu-rW02oHO6-WzGCXceF1ezscmdsbmrb3Kl2GAYRYTGO3CogKWtHc5Kad4IPwo_TReS1qF70FGHIe5csz9yV9a13tLlTy1wfrpv9NH1lLQk87sA",
+        "expirationTime": 1736515387189,
+        "refreshToken": "AMf-vBxenrTYrFWiSaZziV5aB-DpxvkkA7tLso36ZMu-gKgqxzV8xKpVkz5ZYDik57vCKrP95hoaHkOSIdRSlqNhi1ulpbQpjcq2JVNtMeMHS454pQyRP1l6Tpr6s0obpRIfeC7ISpbsJXmU0U331rOrTiIMBePeYOtew8iJd069mwGVX9fHHDw1PqLwJilRSNF21EJGLXCqDmkZZ2sQqtH4bM4XP8GGsQ"
+    },
+    "tenantId": undefined,
+    "uid": "jFd6bf9RJAhwg4lXqfNw3rJgG1G2"
+}
